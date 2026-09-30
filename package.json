@@ -1,0 +1,23 @@
+{
+  "name": "procura-frontend",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Procura — AI-powered bid compliance verification platform for government procurement. SIH 2026, Problem Statement 26100, Team Error 404.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.15",
+    "vite": "^5.4.11"
+  }
+}
